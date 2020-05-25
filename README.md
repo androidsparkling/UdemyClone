@@ -1,2 +1,0 @@
-# UdemyClone
-Created with CodeSandbox
